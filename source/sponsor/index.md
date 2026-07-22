@@ -43,7 +43,7 @@ intro: |
 
 | Name             | Amount  | Message                                                                                                                        |
 | ---------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| Benjamin Schröer | $ 9.34  | Thanks for cheatsheets.zip!                                                                                                    |
+| Benjamin Schröer | $ 9.34  | Thanks for cheatsheets.dev!                                                                                                    |
 | Fabian Barajas   | $ 10.00 |                                                                                                                                |
 | [Anonymous]      | $ 5.00  |                                                                                                                                |
 | [Anonymous]      | $ 20.00 | Your page is the best reference I've ever come across and I'm sharing it with everyone I know. Thanks so much for creating it! |

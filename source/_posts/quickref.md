@@ -7,7 +7,7 @@ tags:
   - reference
 categories:
   - Other
-intro: This is the magic syntax variant manual that you can use on CheatSheets.zip, It's a good practice for contributors.
+intro: This is the magic syntax variant manual that you can use on cheatsheets.dev, It's a good practice for contributors.
 plugins:
   - copyCode
 ---
@@ -41,9 +41,9 @@ It's a good practice to refer to the source code of the
 ├── source
 │   ├── _posts   # Cheatsheet source files
 │   │   ├── awk.md
-│   │   ├── vim.md # => cheatsheets.zip/vim
+│   │   ├── vim.md # => cheatsheets.dev/vim
 │   │   ├── php.md
-│   │   ├── css.md # => cheatsheets.zip/css
+│   │   ├── css.md # => cheatsheets.dev/css
 │   │   ├── ...
 │   └── widget   # Widget files
 │       └── chmod.html
@@ -103,7 +103,7 @@ It's a good practice to refer to the source code of the
 - [Paragraph Variants](#paragraph-variants)
 - [Cards Example](#cards-example)
 
-All the magic variants supported by CheatSheets.zip
+All the magic variants supported by cheatsheets.dev
 
 ### Create source/\_posts/demo.md
 
@@ -691,7 +691,7 @@ List markers
 ### Basic code
 
 ```js
-cheatsheets.zip.is(() => {
+cheatsheets.dev.is(() => {
   awesome.site();
 });
 ```
@@ -704,7 +704,7 @@ here.is.some.more();
 
 `````markdown
 ````js
-cheatsheets.zip.is(() => {
+cheatsheets.dev.is(() => {
   awesome.site()
 })
 \```
@@ -722,7 +722,7 @@ Code blocks can be placed one after the other.
 #### index.js
 
 ```js
-cheatsheets.zip.is(() => {
+cheatsheets.dev.is(() => {
   awesome.site();
 });
 ```
@@ -739,7 +739,7 @@ here.is.some.more();
 #### index.js
 
 ```js
-cheatsheets.zip.is(() => {
+cheatsheets.dev.is(() => {
   awesome.site();
 });
 ```

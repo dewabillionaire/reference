@@ -51,7 +51,7 @@ plugins:
    │ │       └─▷
    │ │ ┌───┬───▷ print("Welcome")
 G gg H M L k j ▶ print("to")
-│        │   └─▷ print("cheatsheets.zip")
+│        │   └─▷ print("cheatsheets.dev")
 │        │       print("/vim")
 │        │
 │        └─────▷

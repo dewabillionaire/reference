@@ -21,7 +21,7 @@ plugins:
 <?php // begin with a PHP open tag.
 
 echo "Hello World\n";
-print("Hello cheatsheets.zip");
+print("Hello cheatsheets.dev");
 
 ?>
 ```
@@ -51,7 +51,7 @@ See: [Types](#php-types)
 ### Strings
 
 ```php
-$url = "cheatsheets.zip";
+$url = "cheatsheets.dev";
 echo "I'm learning PHP at $url";
 
 // Concatenate strings
@@ -1145,7 +1145,7 @@ See also: [Nullsafe Operator](https://wiki.php.net/rfc/nullsafe_operator)
 ### Regular expressions
 
 ```php
-$str = "Visit cheatsheets.zip";
+$str = "Visit cheatsheets.dev";
 echo preg_match("/ch/i", $str); # => 1
 ```
 

@@ -49,7 +49,7 @@ Wildcards are accepted in filename.
 | `-A`   | grep -A 3 'Exception' error.log           | Display 3 lines after matching string                |
 | `-B`   | grep -B 4 'Exception' error.log           | Display 4 lines before matching string               |
 | `-C`   | grep -C 5 'Exception' error.log           | Display 5 lines around matching string               |
-| `-r`   | grep -r 'cheatsheets.zip' /var/log/nginx/ | Recursive search _(within subdirs)_                  |
+| `-r`   | grep -r 'cheatsheets.dev' /var/log/nginx/ | Recursive search _(within subdirs)_                  |
 | `-v`   | grep -v 'warning' /var/log/syslog         | Return all lines which don't match the pattern       |
 | `-e`   | grep -e '^al' filename                    | Use regex _(lines starting with 'al')_               |
 | `-E`   | grep -E 'ja(s\|cks)on' filename           | Extended regex _(lines containing jason or jackson)_ |
@@ -62,8 +62,8 @@ Wildcards are accepted in filename.
 
 ### Refer
 
-- [Regex syntax](/regex) _(cheatsheets.zip)_
-- [Regex examples](/regex#regex-examples) _(cheatsheets.zip)_
+- [Regex syntax](/regex) _(cheatsheets.dev)_
+- [Regex examples](/regex#regex-examples) _(cheatsheets.dev)_
 
 Please refer to the full version of the regex cheat sheet for more complex requirements.
 

@@ -1,5 +1,5 @@
 {
-  "name": "CheatSheets.zip - Ultimate Cheat Sheets for Developers",
+  "name": "cheatsheets.dev - Ultimate Cheat Sheets for Developers",
   "short_name": "CheatSheets",
   "description": "Share quick reference and cheat sheet for developers",
   "start_url": "/",
@@ -66,14 +66,14 @@
       "sizes": "1280x720",
       "type": "image/png",
       "form_factor": "wide",
-      "label": "Desktop view of CheatSheets.zip"
+      "label": "Desktop view of cheatsheets.dev"
     },
     {
       "src": "/assets/screenshots/mobile-390x844.png",
       "sizes": "390x844",
       "type": "image/png",
       "form_factor": "narrow",
-      "label": "Mobile view of CheatSheets.zip"
+      "label": "Mobile view of cheatsheets.dev"
     }
   ],
   "shortcuts": [

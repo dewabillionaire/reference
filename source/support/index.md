@@ -39,7 +39,7 @@ Buy us a coffee and help keep the cheat sheets coming. Perfect for one-time supp
 - Motivation to create new content
 - A smile on our faces
 
-[Buy Me a Coffee](https://buymeacoffee.com/cheatsheets.zip) {.link-arrow}
+[Buy Me a Coffee](https://saweria.co/eradigital) {.link-arrow}
 
 ### 🌟 GitHub Sponsors
 

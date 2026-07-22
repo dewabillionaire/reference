@@ -6,7 +6,7 @@ const donationConfig = {
     enabled: true
   },
   buymeacoffee: {
-    url: 'https://buymeacoffee.com/fechin',
+    url: 'https://saweria.co/eradigital',
     enabled: true
   },
   kofi: {

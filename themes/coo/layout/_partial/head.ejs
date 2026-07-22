@@ -5,7 +5,7 @@
     <meta name="language" content="<%- config.language || 'en' %>"/>
     <meta name="renderer" content="webkit"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
-    <meta name="app:pageurl" content="/"/>
+    <meta name="app:pageurl" content="/cheatsheets/"/>
 
     <!-- title -->
     <title><%- page_title() %></title>
@@ -66,26 +66,26 @@
     <meta name="twitter:image:alt" content="<%- page_title() %> - <%- config.title %>"/>
 
     <!-- favicon -->
-    <link rel="icon" href="/images/favicon.png?v=1"/>
-    <link rel="icon shortcut" type="image/png" href="/images/favicon.png?v=1"/>
+    <link rel="icon" href="/cheatsheets/images/favicon.png?v=1"/>
+    <link rel="icon shortcut" type="image/png" href="/cheatsheets/images/favicon.png?v=1"/>
 
     <!-- PWA -->
-    <link rel="manifest" href="/manifest.json"/>
+    <link rel="manifest" href="/cheatsheets/manifest.json"/>
     <meta name="theme-color" content="#6366f1"/>
     <meta name="apple-mobile-web-app-capable" content="yes"/>
     <meta name="apple-mobile-web-app-status-bar-style" content="default"/>
     <meta name="apple-mobile-web-app-title" content="CheatSheets"/>
-    <link rel="apple-touch-icon" href="/assets/logo/icon-192x192.png"/>
-    <link rel="apple-touch-icon" sizes="152x152" href="/assets/logo/icon-152x152.png"/>
-    <link rel="apple-touch-icon" sizes="180x180" href="/assets/logo/icon-192x192.png"/>
-    <meta name="msapplication-TileImage" content="/assets/logo/icon-144x144.png"/>
+    <link rel="apple-touch-icon" href="/cheatsheets/assets/logo/icon-192x192.png"/>
+    <link rel="apple-touch-icon" sizes="152x152" href="/cheatsheets/assets/logo/icon-152x152.png"/>
+    <link rel="apple-touch-icon" sizes="180x180" href="/cheatsheets/assets/logo/icon-192x192.png"/>
+    <meta name="msapplication-TileImage" content="/cheatsheets/assets/logo/icon-144x144.png"/>
     <meta name="msapplication-TileColor" content="#6366f1"/>
 
     <!-- misc -->
     <link rel="canonical" href="<%- clean_url(url) %>"/>
     <link rel="prefetch" href="<%- url_for(config.url) %>"/>
     <link rel="prerender" href="<%- url_for(config.url) %>"/>
-    <link rel="alternate" href="/atom.xml" title="<%- config.title %>" type="application/atom+xml"/>
+    <link rel="alternate" href="/cheatsheets/atom.xml" title="<%- config.title %>" type="application/atom+xml"/>
 
     <!-- styles -->
     <%- css('css/style.css') %>

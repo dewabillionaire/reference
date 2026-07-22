@@ -96,8 +96,9 @@ html.scrollbar {
 
 @media (max-width: 768px) {
     .mdLayout {
-        overflow-x: hidden;
+        overflow-x: visible;
         word-wrap: break-word;
+        padding-left: 4px;
     }
 }
 
